@@ -58,5 +58,8 @@ media/
 *.docx
 *.pdf
 
+# Subtitle file
+*.txt
+
 # Presentation
 *.pptx

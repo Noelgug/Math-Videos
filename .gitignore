@@ -47,6 +47,14 @@ media/
 *.avi
 *.mov
 
+# Thumbnail files
+*.png
+*.jpg
+*.afdesign
+*.svg
+*.afphoto
+*.ai
+
 # Davinci Resolve project files
 *.drp
 
